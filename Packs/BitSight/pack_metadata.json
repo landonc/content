@@ -1,0 +1,17 @@
+{
+    "name": "BitSight",
+    "description": "Ingest findings from BitSight",
+    "support": "community",
+    "currentVersion": "1.0.0",
+    "author": "Landon Chelf",
+    "url": "https://live.paloaltonetworks.com/t5/cortex-xsoar-discussions/bd-p/Cortex_XSOAR_Discussions",
+    "email": "",
+    "created": "2021-01-21T16:26:44Z",
+    "categories": [
+        "Vulnerability Management"
+    ],
+    "tags": [],
+    "useCases": [],
+    "keywords": [],
+    "githubUser": []
+}
